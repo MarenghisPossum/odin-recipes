@@ -1,0 +1,1 @@
+This will be an attempt at making a recipe website, being 43% into The Odin Project. I forgot lots of things because I needed a break for two days. Lord help me.
